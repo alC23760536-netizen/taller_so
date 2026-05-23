@@ -19,5 +19,5 @@ y el porcentaje de uso de la memoria RAM. Donde los datos se actualizan en inter
 Cuarto script "diagnostico_so.sh"
 <img width="795" height="1072" alt="Captura de pantalla 2026-05-22 185318" src="https://github.com/user-attachments/assets/29a0abd7-b09f-4bbf-b402-3dbe72ec6e70" />
 
-Este scirpt brinda la informacion general del software, hardware y proceso en ejecucion que hay en el equipo, ademas de los procesos con
+Este script brinda la informacion general del software, hardware y proceso en ejecucion que hay en el equipo, ademas de los procesos con
 mayor consumo de CPU.
